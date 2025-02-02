@@ -1,19 +1,9 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# AI Recipe Finder
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+**AI Recipe Finder** is a web application built with React that uses AI to suggest recipes based on the ingredients you provide. Simply enter the ingredients you have, and the app will generate a list of recipes that you can try with those ingredients. The app leverages AI to make accurate suggestions and provide you with delicious recipe ideas.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Features
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+- **Ingredient-based Recipe Search**: Enter the ingredients you have at hand, and the app will suggest recipes you can make.
+- **AI-Powered Suggestions**: The app uses AI to recommend recipes based on ingredient matching.
+- **Responsive Design**: The app is fully responsive, ensuring a smooth user experience across devices.
